@@ -25,7 +25,7 @@
 
 		<version.com.lazerycode.jmeter>2.7.0</version.com.lazerycode.jmeter>
 
-		<version.org.webjars.bootstrap>3.3.7-1</version.org.webjars.bootstrap>
+		<version.org.webjars.bootstrap>5.0.0</version.org.webjars.bootstrap>
 		<version.org.webjars.jquery>3.1.1</version.org.webjars.jquery>
 
 		<version.fenixframework>2.6.2</version.fenixframework>
